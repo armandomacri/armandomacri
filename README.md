@@ -3,7 +3,7 @@
 </h1>
 
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning index for approximate similarity search
+- 🌱 I’m currently learning Evolutionary algorithms
 - 📫 How to reach me armandomacri.96@gmail.com
 
 <!---
